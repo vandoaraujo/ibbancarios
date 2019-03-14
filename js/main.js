@@ -337,3 +337,37 @@
 
 })(jQuery);
 
+
+
+
+function Login() {
+	var done=0;
+	var usuario = document.getElementsByName('usuario')[0].value;
+	usuario=usuario.toLowerCase();
+	var senha= document.getElementsByName('senha')[0].value;
+	seha=senha.toLowerCase();
+	if (usuario=="admin" && senha=="admin") {
+	  window.location="/p/admin.html";
+	  done=1;
+	}
+	if (done==0) { alert("Dados incorretos, tente novamente"); }
+  }
+/*   <div id="all">
+	<div id="login-box">
+	  <div id="login-header">
+		Faça login no sistema
+	  </div>
+	  <div id="login-inputs">
+		<input type="text" placeholder="Nome de usuário" name="usuario">
+		<br />
+		<input type="password" placeholder="Senha" name="senha">
+	  </div>
+	  <div id="enviar">
+		<input type="button" onclick="Login()" class="botao" value="Login">
+		<a href="#">Esqueceu a sua senha?</a>
+	  </div>
+	</div>
+  </div> */
+  
+  
+

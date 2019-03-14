@@ -12,3 +12,13 @@ Adding igrejabatistanosbancarios.com.br to ⬢ ibbancarios... done
 
 The domain igrejabatistanosbancarios.com.br has been enqueued for addition
   Run heroku domains:wait 'igrejabatistanosbancarios.com.br' to wait for completion
+
+
+  Adicionar:
+
+  Tirar link do saiba mais apontando pro video Ele é DEUS...
+  Mudar a foto inicial, trocando abaixo acima...
+
+https://www.youtube.com/watch?v=o1D5wFa-VbA jovens
+
+http://amigosdameloficial.blogspot.com/2014/07/cristina-mel-na-igreja-batista-dos.html Cristina Mel
