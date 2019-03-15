@@ -27,3 +27,47 @@ The domain igrejabatistanosbancarios.com.br has been enqueued for addition
 https://www.youtube.com/watch?v=o1D5wFa-VbA jovens
 
 http://amigosdameloficial.blogspot.com/2014/07/cristina-mel-na-igreja-batista-dos.html Cristina Mel
+
+
+Ministerio 1
+JM
+Mais vida
+Ministerio Infantil
+Celulas
+Louvor
+Intercessao
+
+Ministerio 2
+Ensino
+Pastoral
+iluminacao
+Recepcao
+Missoes e Serviço Social
+
+Ministerio 3
+EBD
+Administrativo
+Finanças
+Juridico
+Cozinha
+Familia
+
+ministerio 4
+Som e Multimidia
+Festas e Eventos
+Divulgação e Memória
+Coordenação de Membros
+
+Imagens que faltam
+
+missoes
+EBD
+Patrimonio
+Finanças
+Jurídico
+Cozinha
+Familia
+Som e Multimídia
+Festas e Eventos
+Divulgação e Memória
+Coordenação de membros
