@@ -17,10 +17,10 @@ The domain igrejabatistanosbancarios.com.br has been enqueued for addition
   Adicionar:
 
   - Tirar link do saiba mais apontando pro video Ele é DEUS...
-  - Mudar foto da primeira pagina para o logo da igreja ou minimizar a imagem no celular.
+  - Mudar foto da primeira pagina para o logo da igreja ou minimizar a imagem no celular. OK
   - Reestruturar as sections por ordem de prioridade.
   - Alterar as imagens repetidas e sem sentido. OK
-  - Remover imagens que não estão sendo utilizadas.
+  - Remover imagens que não estão sendo utilizadas. OK
   - Acertar o frame de calendar
 
   
