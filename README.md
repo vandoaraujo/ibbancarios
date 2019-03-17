@@ -25,10 +25,7 @@ The domain igrejabatistanosbancarios.com.br has been enqueued for addition
 
   VIdeo Bancarios Iluminacao <iframe width="560" height="315" src="https://www.youtube.com/embed/HYGZUNdNehw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  
-https://www.youtube.com/watch?v=o1D5wFa-VbA jovens
-
-http://amigosdameloficial.blogspot.com/2014/07/cristina-mel-na-igreja-batista-dos.html Cristina Mel
+  http://amigosdameloficial.blogspot.com/2014/07/cristina-mel-na-igreja-batista-dos.html Cristina Mel
 
 
 Ministerio 1
