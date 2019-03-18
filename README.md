@@ -16,17 +16,11 @@ The domain igrejabatistanosbancarios.com.br has been enqueued for addition
 
   Adicionar:
 
-  - Tirar link do saiba mais apontando pro video Ele é DEUS...
   - Mudar foto da primeira pagina para o logo da igreja ou minimizar a imagem no celular. OK
-  - Reestruturar as sections por ordem de prioridade.
-  - Alterar as imagens repetidas e sem sentido. OK
-  - Remover imagens que não estão sendo utilizadas. OK
-  - Acertar o frame de calendar
+  - Registrar o dominio igrejabatistanosbancarios
+  - Criar site no facebook
 
   VIdeo Bancarios Iluminacao <iframe width="560" height="315" src="https://www.youtube.com/embed/HYGZUNdNehw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-  http://amigosdameloficial.blogspot.com/2014/07/cristina-mel-na-igreja-batista-dos.html Cristina Mel
-
 
 Ministerio 1
 JM
@@ -57,16 +51,3 @@ Festas e Eventos
 Divulgação e Memória
 Coordenação de Membros
 
-Imagens que faltam
-
-missoes
-EBD
-Patrimonio
-Finanças
-Jurídico
-Cozinha
-Familia
-Som e Multimídia
-Festas e Eventos
-Divulgação e Memória
-Coordenação de membros
