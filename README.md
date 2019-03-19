@@ -10,6 +10,8 @@ Adding igrejabatistanosbancarios.com.br to ⬢ ibbancarios... done
  ▸    Configure your app's DNS provider to point to the DNS Target deep-cherry-fnrwt554wvv5c7wbryt4cco7.herokudns.com.
  ▸    For help, see https://devcenter.heroku.com/articles/custom-domains
 
+ www.igrejabatistanosbancarios.org.br  CNAME            cardiovascular-mullberry-o355ztkykrjyfyicg9gplr5p.herokudns.com
+
 The domain igrejabatistanosbancarios.com.br has been enqueued for addition
   Run heroku domains:wait 'igrejabatistanosbancarios.com.br' to wait for completion
 
