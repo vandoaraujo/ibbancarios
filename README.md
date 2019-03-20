@@ -19,7 +19,21 @@ The domain igrejabatistanosbancarios.com.br has been enqueued for addition
   Adicionar:
 
   - Mudar foto da primeira pagina para o logo da igreja ou minimizar a imagem no celular. OK
-  - Registrar o dominio igrejabatistanosbancarios
+  - Registrar o dominio igrejabatistanosbancarios OK
+  - Criar tabela para as células  (Acertar esse CSS)
+
+      .limiter {
+        width: 100%;
+        margin: 0 auto;
+        /* background: #120b16;
+        background: -webkit-linear-gradient(bottom, #c471f5, #fa71cd);
+        background: -o-linear-gradient(bottom, #c471f5, #fa71cd);
+        background: -moz-linear-gradient(bottom, #c471f5, #fa71cd);
+        background: linear-gradient(bottom, #120b16, #fa71cd); */
+
+
+      }
+
   - Criar site no facebook
   - Usar fundo desses sites São free https://www.pexels.com/
   - Imagens para o site da igreja https://unsplash.com/ https://www.sitebuilderreport.com/stock-up
