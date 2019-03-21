@@ -141,7 +141,7 @@ iframe {
 [ Table ]*/
 
 .limiter {
-  width: 100%;
+  width: 75%;
   margin: 0 auto;
   /* background: #120b16;
   background: -webkit-linear-gradient(bottom, #c471f5, #fa71cd);
@@ -178,7 +178,7 @@ iframe {
 }
 
 table {
-  width: 100%;
+  width: 75%;
 }
 
 th, td {
