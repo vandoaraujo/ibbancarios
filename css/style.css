@@ -7451,6 +7451,10 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light.scrolled .navbar-brand {
       color: #000; }
 
+.navbar-brand span {
+        display: block; 
+}
+
 .navbar-brand {
   font-weight: 700;
   line-height: 1;
