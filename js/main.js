@@ -298,7 +298,11 @@
 	bgVideo();
 
 	// Set the date we're counting down to
+	
+	if(document.title == 'Igreja Batista nos Bancários'){
+		
 		var countDownDate = new Date("Dec 31, 2019 23:59:00").getTime();
+		
 
 		// Update the count down every 1 second
 		var x = setInterval(function() {
@@ -320,6 +324,7 @@
 		// + minutes + "Minutes " + seconds + "Seconds ";
 
 		// Display the result in an element with id="demo"
+		
 		document.getElementById("days").innerHTML = days +" <small>dias</small>";
 		document.getElementById("hours").innerHTML = hours + " <small>horas</small> ";
 		document.getElementById("minutes").innerHTML = minutes + " <small>minutos</small> ";
@@ -331,7 +336,7 @@
 		 document.getElementById("demo").innerHTML = "O ano terminou";
 		}
 		}, 1000);
-
+	}
 	// Document on load.
 
 
