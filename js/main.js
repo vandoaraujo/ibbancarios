@@ -297,6 +297,8 @@
 	};
 	bgVideo();
 
+	var interval = setInterval(function() {}, 1000 * 60 * 20);
+
 	// Set the date we're counting down to
 	
 	if(document.title == 'Igreja Batista nos Bancários'){
