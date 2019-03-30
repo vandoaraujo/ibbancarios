@@ -297,7 +297,9 @@
 	};
 	bgVideo();
 
-	var interval = setInterval(function() {}, 1000 * 60 * 20);
+	var interval = setInterval(function() {
+		console.log('Acorda...');
+	}, 300000);
 
 	// Set the date we're counting down to
 	
