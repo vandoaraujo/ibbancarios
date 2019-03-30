@@ -1526,6 +1526,8 @@ pre {
     .table-responsive-md > .table-bordered {
       border: 0; } }
 
+
+
 @media (max-width: 991.98px) {
   .table-responsive-lg {
     display: block;
@@ -8685,6 +8687,21 @@ textarea.form-control {
   box-shadow: none !important;
   font-size: 15px; }
 
+  .logoIgreja {
+
+    top: -19px;
+    width: 70px;
+    /* height: 60px; */
+    position: absolute;
+    opacity: 0.5;
+  }
+
+  .nosBancarios {
+    position: absolute;
+    left: 80Px;
+    font-size: 23px;
+  }
+
 .block-21 .blog-img {
   display: block;
   height: 80px;
@@ -9012,6 +9029,12 @@ textarea.form-control {
 only screen and (max-width: 760px),
 (min-device-width: 768px) and (max-device-width: 1024px)  {
 
+  .nosBancarios {
+    position: absolute;
+    left: 80Px;
+    font-size: 20px !important;
+  }
+
 	/* Force table to not be like tables anymore */
 	table, thead, tbody, th, td, tr { 
 		display: block; 
@@ -9056,3 +9079,4 @@ only screen and (max-width: 760px),
 	td:nth-of-type(6):before { content: "Bairro"; }
 	td:nth-of-type(7):before { content: "Perfil"; }  
 }
+
