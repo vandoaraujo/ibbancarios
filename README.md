@@ -10,6 +10,8 @@ Site da Igreja Batista Bancarios
   http://www.freepik.es vetores https://www.vexels.com https://www.123freevectors.com
   Video Getsemani https://youtu.be/EqBNVRk5mL0
   Teu amor nao falha https://youtu.be/6rK68AfKBmU
+
+  CNPJ 013.303.024/0001-61
   
 
   VIdeo Bancarios Iluminacao <iframe width="560" height="315" src="https://www.youtube.com/embed/HYGZUNdNehw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
