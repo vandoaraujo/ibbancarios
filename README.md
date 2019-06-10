@@ -12,6 +12,11 @@ Site da Igreja Batista Bancarios
 
   Video Bancarios Iluminacao <iframe width="560" height="315" src="https://www.youtube.com/embed/HYGZUNdNehw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+  Publica album 
+
+  http://suewaters.com/2018/07/11/embed-google-photos-album-into-a-website/
+  https://www.publicalbum.org/blog/embedding-google-photos-albums
+
 Organização do site
 
 
