@@ -305,7 +305,7 @@
 	
 	if(document.title == 'Igreja Batista nos Bancários'){
 		
-		var countDownDate = new Date("Dec 31, 2019 23:59:00").getTime();
+		var countDownDate = new Date("Dec 31, 2020 23:59:00").getTime();
 		
 
 		// Update the count down every 1 second
